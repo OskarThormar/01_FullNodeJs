@@ -1,0 +1,9 @@
+
+Endpoints               HTTP verb
+-------------------------------------
+/fingerbones            GET
+/fingerbones/{id}       GET
+/fingerbones            POST
+/fingerbones/{id}       PUT
+/fingerbones/{id}       PATCH
+/fingerbones/{id}       DELETE
